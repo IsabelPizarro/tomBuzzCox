@@ -1,4 +1,5 @@
 import NavBar from './NavBar';
+import foto from '../assets/img/Tom.jpg'
 
 
 function About () {
@@ -16,7 +17,9 @@ function About () {
             <div class="author">
                 <p><span>tom buzz cox</span></p>
             </div>
-            <div class="image"></div>
+            <div class="image">
+              <img src={foto}></img>
+            </div>
             <div class="text">
                 <p className="primer"> I've been crazy about words ever since the first one tumbled out of my mouth. (“Sun,” in case you were wondering.) </p>
                 <p>I taught English for eight years before making the switch to full time copywriting. Even when teaching, I never stopped writing. I worked as a football journalist for Spain’s largest football website. I blogged for Spain’s largest broadsheet. I wrote interactive quizzes about Britain for the French company OpenAsk.com and translated a poem anthology so successfully that the writer told me he preferred my English versions of his poems to his Spanish ones!</p>
