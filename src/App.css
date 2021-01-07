@@ -661,3 +661,18 @@ hr {
     width: 99%;
   }
 }
+.open {
+  display: flex;
+  flex-direction: row;
+  z-index: 0;
+  align-items: center;
+  background-color: pink !important;
+  height: 300px;
+  width: 260px;
+  border-radius: 15px;
+  border: #fff 1px solid;
+  padding-left: 150px;
+  font-size: 39px;
+  font-weight: bold;
+  /* padding: 20px; */
+}
