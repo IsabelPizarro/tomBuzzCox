@@ -9,6 +9,7 @@ import {
   function NavBar () {
     return (
       <div >
+          {/* <div className="bg-light"> <span>07845003045</span> <span>tombuzzcox@gmail.com</span></div> */}
         <nav class="navbar navbar-expand-lg navbar-light bg-light p-5">
               <div class="container-fluid">
                 <a class="navbar-brand" href="#">Tom Buzz Cox</a>
@@ -27,7 +28,7 @@ import {
                       {/* <a class="nav-link" href="#">About</a> */}
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#">Contact</a>
+                    <Link to="/contact">Contact</Link>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="#">Blog</a>
