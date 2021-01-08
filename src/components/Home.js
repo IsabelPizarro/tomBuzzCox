@@ -56,7 +56,8 @@ function Home () {
         <p className="p">If you need a website written from scratch, a copy makeover, a blog, a script, a flyer, or anything else written down, I’m your huckleberry.</p>
         <p className="p"> I’ll take the time to understand your product and your customers and I’ll write copy that answers their questions, anticipates their objections </p>
         <p className="p">and convinces them that your business is the way to go.</p>
-        <button class="hero-button">Get in touch</button>
+                    
+        <button class="hero-button"><Link to="/contact">Get in touch</Link>   </button>
        </div>
       </section>      
     </div>

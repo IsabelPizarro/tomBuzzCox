@@ -39,7 +39,8 @@ import {
                     <Link to="/contact">Contact</Link>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#">Blog</a>
+                    
+                      <a class="nav-link" href="https://buzzcopy.medium.com/" target="_blank">Blog</a>
                     </li>
                   </ul>
                 </div>

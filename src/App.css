@@ -69,8 +69,8 @@ aricle {
   margin: 20px 0;
 }
 .text {
-  columns: 2;
-  column-width: 250px;
+  /* columns: 2; */
+  column-width: 100%;
   column-gap: 2em;
   padding: 0 20px;
   text-align: justify;

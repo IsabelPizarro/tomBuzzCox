@@ -6,15 +6,19 @@ function Contact () {
     <section id="contact">
         <h1 class="section-header">CONTACT</h1>
             <div class="contact-wrapper">
-                <form class="form-horizontal" role="form" method="post" action="contact.php">  
+            <form
+  action="https://formspree.io/f/mrgorqjr"
+  method="POST" class="form-horizontal"
+>
+                {/* <form class="form-horizontal" role="form" method="post" action="contact.php">   */}
                         <div class="form-group">
                             <div class="col-sm-12">
-                            <input type="text" class="form-control" id="name" placeholder="NAME" name="name" value=""/>
+                            <input type="text" class="form-control" id="name" placeholder="NAME" name="name" />
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="col-sm-12">
-                            <input type="email" class="form-control" id="email" placeholder="EMAIL" name="email" value=""/>
+                            <input type="email" class="form-control" id="email" placeholder="EMAIL" name="email"/>
                             </div>
                         </div>
                         <textarea class="form-control" rows="10" placeholder="MESSAGE" name="message"></textarea>                       
