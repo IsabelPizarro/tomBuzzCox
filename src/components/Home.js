@@ -38,8 +38,8 @@ function Home () {
           <div class="container">
               <div class="box">
                   <ul class="subheading-text">
-                        <li>East Sussex Copywriter</li>
-                        <li>Copywriting and content writing that connects with your customers</li>
+                        <li>Tom Cox: Copywriter at large</li>
+                        <li>Creator of - Hot, Fresh, Early-morning Copy</li>
                         <li></li>
                   </ul>
               </div>
