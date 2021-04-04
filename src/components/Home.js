@@ -38,24 +38,40 @@ function Home () {
           <div class="container">
               <div class="box">
                   <ul class="subheading-text">
-                        <li>Tom Cox: Copywriter at large</li>
-                        <li>Creator of - Hot, Fresh, Early-morning Copy</li>
-                        <li></li>
+                        <li> Creative Copywriting. </li>
+                        <li> For Great People </li>
+                        <li> Like You.</li>
+                  </ul>
+                  <ul class= "smaller-text">
+
+                      <li>If you're doing something amazing, you want people to notice.</li>
+                      <li>That can be tricky in a world where everyone is shouting.</li>
+                      <li>I write copy that helps you to cut through the noise.</li>
+                     
+                      
+                    
+                      <li>Call me on 07845 003045 or<Link to="/contact"> send an email.</Link></li>
+                      <li> </li>
+                      
+                      
+                      
+              
+                        
+                        
+           
+                      
+                      <li></li>
                   </ul>
               </div>
           </div>
     </section>
     <section class="section-black">
 			<div class="container">
-				<h3> Copy that gets attention. </h3>
+				<h3> "I can't recommend Tom highly enough. He researched my business like a madman, was a joy to work with and produced great results." </h3>
 
-				<p className="p"> And knows what to do with it. </p>
-        <p className="p">Hi, I'm Tom. I write clean, creative copy that never forgets what it’s there to do: persuade, sell, and move people to action. </p>
-        <p className="p">Your business needs search-friendly content that doesn’t feel like it was written by an algorithm. SEO that’s not DOA. It needs words and insight designed to gently persuade without shouting or twisting arms.</p>
-        <p className="p">Good copy will help people to discover your business, trust your business, buy from your business, and come back to your business. That’s the kind of copy that I write.</p>
-        <p className="p">If you need a website written from scratch, a copy makeover, a blog, a script, a flyer, or anything else written down, I’m your huckleberry.</p>
-        <p className="p"> I’ll take the time to understand your product and your customers and I’ll write copy that answers their questions, anticipates their objections </p>
-        <p className="p">and convinces them that your business is the way to go.</p>
+			
+        <p className="p"> Thomas Anthony, Founder - Everything Must Grow </p>
+        
                     
         <button class="hero-button"><Link to="/contact">Get in touch</Link>   </button>
        </div>
